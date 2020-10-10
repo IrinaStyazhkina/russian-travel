@@ -5,11 +5,11 @@
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; 
+  justify-content: space-between;
   background-color: #2A2C2F;
   color: #FFFFFF;
   font-family: 'Inter', Arial, sans-serif;
-  text-rendering: optimizelegibility;
+  text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
