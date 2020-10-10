@@ -1,0 +1,9 @@
+.place__website {
+  width: auto;
+}
+
+@media all and (max-width: 600px) {
+  .place__website {
+    display: none;
+  }
+}

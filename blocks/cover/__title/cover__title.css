@@ -1,0 +1,23 @@
+.cover__title {
+  opacity: 1;
+  margin: 0 0 2rem;
+  font-weight: 900;
+  font-size: 4.5rem;
+  line-height: 1.06;
+  width: 35rem;
+  box-sizing: border-box;
+  padding: 0 0.375rem;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+@media all and (max-width: 500px) {
+  .cover__title {
+    width: 18rem;
+    font-size: 2rem;
+    line-height: 1.09;
+    margin: 0 0 1rem;
+    padding: 0 1.4rem;
+  }
+}
