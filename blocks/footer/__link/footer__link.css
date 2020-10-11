@@ -7,6 +7,11 @@
   margin: 0 1.125rem 0 0;
 }
 
+.footer__link:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
 @media all and (max-width: 650px) {
   .footer__link {
     font-size: 1.5rem;
