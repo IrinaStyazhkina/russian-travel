@@ -1,8 +1,9 @@
 .cover__subtitle {
-  width: 360px;
+  color: #ffffff;
+  width: 22.5rem;
   margin: 0;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.125rem;
   line-height: 1.22;
   text-align: center;
   position: relative;
@@ -10,7 +11,7 @@
   box-sizing: border-box;
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 720px) {
   .cover__subtitle {
     width: 18rem;
     font-size: 0.875rem;

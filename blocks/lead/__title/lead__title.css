@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-@media all and (max-width: 640px) {
+@media all and (max-width: 720px) {
   .lead__title {
     width: 18rem;
     margin: 0 0 1rem;

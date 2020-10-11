@@ -14,7 +14,7 @@
   }  
 }
 
-@media all and (max-width: 640px) {
+@media all and (max-width: 720px) {
   .lead__subtitle {
     width: 18rem;
     margin: 0 0 2.5rem;
