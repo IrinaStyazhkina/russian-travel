@@ -2,7 +2,7 @@
   width: auto;
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 640px) {
   .place__website {
     display: none;
   }
